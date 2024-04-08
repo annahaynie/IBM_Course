@@ -1,3 +1,3 @@
 # IBM_Course
 
-First change to my respository for the IBM "Tools for Data Science" Course. 
+This repository hosts all of the projects completed throughout the 10 courses of the IBM Data Science Professional Certificate program. These projects demonstrate my skills in Python, SQL, machine learning, data visualization, and more. 
